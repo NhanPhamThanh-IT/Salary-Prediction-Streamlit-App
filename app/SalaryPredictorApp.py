@@ -1,3 +1,18 @@
+"""
+SalaryPredictorApp.py
+
+A Streamlit-based web application for predicting salaries based on years of experience.
+
+This script serves as the entry point for the app. It initializes and runs the 
+SalaryPredictorApp class, which loads a trained model and provides a user-friendly 
+interface for input and prediction.
+
+Author: Nhan Pham
+Email: ptnhanit230104@gmail.com
+Date: 2025-07-26
+Version: 1.0.0
+"""
+
 import streamlit as st
 import pickle
 
