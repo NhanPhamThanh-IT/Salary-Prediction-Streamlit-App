@@ -1,4 +1,4 @@
-# <div align="justify">💰 Salary Prediction Streamlit App</div>
+# <div align="center">💰 Salary Prediction Streamlit App</div>
 
 <div align="justify">
 
@@ -6,9 +6,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-orange.svg) ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**A machine learning web application that predicts salary based on years of experience using Linear Regression and Streamlit**
+**💰 Salary Prediction ML App | Predict salary based on experience using Linear Regression & Streamlit. Clean dataset, trained model, interactive web interface. Perfect for HR, job seekers, and ML learners.**
 
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://your-demo-link.com) [![Documentation](https://img.shields.io/badge/Documentation-Complete-blue.svg)](docs/) [![Issues](https://img.shields.io/badge/Issues-Welcome-orange.svg)](https://github.com/NhanPhamThanh-IT/Salary-Prediction-Streamlit-App/issues)
+[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://your-demo-link.com) [![Documentation](https://img.shields.io/badge/Documentation-Complete-blue.svg)](docs/) [![Issues](https://img.shields.io/badge/Issues-Welcome-orange.svg)](https://github.com/NhanPhamThanh-IT/Salary-Prediction-Streamlit-App/issues) ![GitHub last commit](https://img.shields.io/github/last-commit/NhanPhamThanh-IT/Salary-Prediction-Streamlit-App) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NhanPhamThanh-IT/Salary-Prediction-Streamlit-App) ![GitHub repo size](https://img.shields.io/github/repo-size/NhanPhamThanh-IT/Salary-Prediction-Streamlit-App) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NhanPhamThanh-IT/Salary-Prediction-Streamlit-App)
 
 </div>
 
